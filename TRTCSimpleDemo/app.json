@@ -2,9 +2,11 @@
   "pages": [
     "pages/index/index",
     "pages/meeting/meeting",
+    "pages/meeting/room/room",
     "pages/videocall/videocall",
     "pages/videocall/room/room",
-    "pages/meeting/room/room"
+    "pages/voice-room/join-room/joinRoom",
+    "pages/voice-room/room/room"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
